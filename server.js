@@ -19,9 +19,9 @@ mongoose.connect(
       useCreateIndex: true,
       useFindAndModify: false
     }
+)
 
 app.use('/api', apiRouter);
- 
 app.use('/', htmlRouter);
 
 app.listen(PORT, () => {
