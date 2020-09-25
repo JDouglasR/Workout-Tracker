@@ -8,10 +8,13 @@ MIT
 This app is for tracking progress for workouts. The user can log multiple exercises in a workout on a given day, and should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user is able to track distance traveled.
 
 ### __Installation__
-Installation:  You will need to have Node installed and then run ```npm install``` to be able to run.  To run the program locally, you can either install [Nodemon](https://nodemon.io/) or just run ```node server.js```.  After this step, open your browser and navigate to ```localhost:3000```.  This should display the app.
+Installation:  You will need to have Node installed and then run ```npm install``` to be able to run.  To run the program locally, you can either install [Nodemon](https://nodemon.io/) or just run ```node server.js```.  After this step, open your browser and navigate to ```localhost:3000```.  This should display the app.  To view the stats page, click on the ```Fitness Tracker Dashboard``` on the left side of the header from the index page.
 
 ### __Usage__
 Demonstration GIF:
+![Demo Gif](/public/assets/img/tracker.gif)
+Stats Page Image:
+![Stats Page Image](/public/assets/img/stats.png)
 
 ### __Contributing__
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
