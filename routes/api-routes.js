@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const Workout = require("../models/workout");
+const Workout = require("../models/Workout");
 
 //ALL ROUTES IN HERE ARE ALREADY MOUNTED ON /api
 
